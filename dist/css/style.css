@@ -2,8 +2,8 @@ body {
     margin-top: 43px; /* push all the content down 43 pixels*/
 }
 
-.content {
-    margin-bottom 45px;
+.content.about {
+    margin-bottom 0px;
 }
 
 .header {
