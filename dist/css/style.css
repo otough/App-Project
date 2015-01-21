@@ -1,4 +1,8 @@
-.content.about {
+body.about {
+    margin-top 10px;
+}
+
+.content {
     margin-bottom 45px;
 }
 
